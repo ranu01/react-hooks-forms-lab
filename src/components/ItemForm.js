@@ -11,7 +11,7 @@ function ItemForm(props) {
 
       <label>
         Category:
-        <select name="category">
+        <select name="name">
           <option value="Produce">Produce</option>
           <option value="Dairy">Dairy</option>
           <option value="Dessert">Dessert</option>
